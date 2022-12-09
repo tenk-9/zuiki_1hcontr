@@ -49,3 +49,4 @@ python3の実行環境が整っていることを想定しています．
 
 以上の設定を変更しても正常に動作しない場合，[Twitter](https://twitter.com/10_tenk)にDMを飛ばしてください．可能であれば対応します．
 
+その他ご意見・ご要望等あれば[Twitter](https://twitter.com/10_tenk)にDMを飛ばしてください．よろしくお願いします．
